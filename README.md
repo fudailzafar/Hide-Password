@@ -10,14 +10,13 @@ This project is a simple "Hide/Show Password" functionality built with HTML, CSS
 
 ## File Structure
 ```bash
-Hide-Password-Feature/
 │
 ├── index.html        # The main HTML file containing the password input and eye icon
 ├── style.css         # The CSS file that styles the input field and eye icon
 ├── script.js         # JavaScript file responsible for toggling password visibility
 └── /images/          # Folder containing images for the eye icon
-    ├── eye-close.png # Image for closed eye icon when password is hidden
-    └── eye-open.png  # Image for open eye icon when password is visible
+    ├── eye-close.png # Image for closed eye icon when the password is hidden
+    └── eye-open.png  # Image for open eye icon when the password is visible
 ```
 
 ## How to Use
